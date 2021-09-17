@@ -1,0 +1,6 @@
+## A00442519
+
+# Max
+
+int maximum(n):
+	return max(n)
