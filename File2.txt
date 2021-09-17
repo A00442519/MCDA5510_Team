@@ -1,0 +1,7 @@
+## A00442519
+
+# Division
+
+int division(a,b):
+
+	return a/b
