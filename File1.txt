@@ -1,5 +1,14 @@
 #A00456016
 
-Public int additio (int a, int b) {
+Public int Multi (int a, int b) {
 	return a*b;
 }
+
+## A00442519
+
+# Addition
+
+int addition(a,b):
+	
+	return a+b
+
